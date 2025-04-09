@@ -2,7 +2,7 @@
 /*
 Plugin Name: My Pro Plugin
 Description: A plugin with license key validation and GitHub-based Pro version update.
-Version: 1.0.0
+Version: 92.0.0
 Author: Your Name
 */
 
